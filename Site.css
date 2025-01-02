@@ -27,6 +27,7 @@ position: relative;
 left: 300px;
 bottom: 20px;
 }
+
 .introduction {
   display: flex; 
   align-items: center; 
@@ -37,14 +38,25 @@ bottom: 20px;
 body{
   font-family: 'Inter',sans-serif;
 }
+button{
+  background-color:darkorange;
+}
+
 p1{
   font-size:80px;
   line-height: 70px;
   
 }
+.whyus{
+position: relative;
+left: 100PX;
+}
 
 
-
-
-
+div{
+display: inline-block;
+}
+footer{
+background-color: rgb(253,240,234);
+}
 
