@@ -49,14 +49,23 @@ p1{
 }
 .whyus{
 position: relative;
-left: 100PX;
+left: 70PX;
 }
-
-
+.qualite{
+  position: relative;
+  bottom: 20px;
+}
+.feauture div{
+  margin: 20px;
+}
 div{
 display: inline-block;
 }
 footer{
 background-color: rgb(253,240,234);
+}
+.footer{
+  position: relative;
+  left: 50px;
 }
 
