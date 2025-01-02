@@ -1,7 +1,24 @@
-
-
-
-
+.header{
+  background-color: rgb(253,240,234);
+  margin: 10px;
+}
+.logo{
+position: relative;
+top: 30px;
+width: 150px;
+left: 50PX;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+nav ul li{
+display: inline-block;
+padding: 10px;
+position: relative;
+left: 300px;
+bottom: 20px;
+}
 
 
 
